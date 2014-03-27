@@ -1,15 +1,10 @@
 {
     "technologies": {
-        "apis": [
-            "Google Maps",
-            "java JDK"
-        ],
+        "apis": [],
         "platforms": [
-            "eclipse"
+            "Chrome App"
         ],
-        "toolkits": [
-            "Swing"
-        ]
+        "toolkits": []
     },
     "themes": [
         "Own world",
