@@ -1,33 +1,25 @@
 # Project Title
-Insert the name of your project
+Own World
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+YiTian, Luan 
+Jianbo, Deng, StitchDeng
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The recognition of mankind to the world is explanation to the universe that oneself lives in. So far, I have not been to many places in reality.My own map grows up along with myself, experiencing many changes. My true world starts with a city.
+  
+The data from GPS that everyone uses, based on Google Map, every geographic area map is divided into pixels, each person’s location is one pixel and different people have different colors. As time moves forward and life cycle of people changes,the picture changes. The picture is refreshing all the time with periodical data gathering and every single person has his own changing picture，and showing the different shapes and colors.   
+  
+The work is completed by joint efforts of artists, program developers and users. Like creating a painting, artists design the style, developers sketch the profile, and finally, users fill the painting with color.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 ```
-function test() {
-  console.log("Printing a test");
-}
+
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+![Own World](project_images/own-world-pixel.jpg "Own World")
