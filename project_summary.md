@@ -25,3 +25,6 @@ The work is completed by joint efforts of artists, program developers and users.
 ## Images & Videos
 ![cover.jpg](project_images/own-world-pixel.jpg "cover")
 ![Own World](project_images/own-world-pixel.jpg "Own World")
+![Mondrian](project_images/own-world-Mondrian.jpg "Mondrian")
+![Mondrian2](project_images/own-world-Mondrian2.jpg "Mondrian2")
+
