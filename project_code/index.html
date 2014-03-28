@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Test of draw footprints</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:image" content="http://www.stagexl.org/samples/common/img/stagexl064.png">
+  <meta property="og:title" content="StageXL Mask Sample">
+  <meta property="og:type" content="website">
+  <meta property="og:description"
+    content="This example shows how to mask display objects.
+    StageXL supports masks with user definable shapes. The example
+    also demonstrates that masks are bound to display objects
+    and therefore are accordingly transformed and animated.">
+
+  <link href="../common/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="../common/css/bootstrap.min.css" rel="stylesheet">
+
+  <style type="text/css">
+    body {
+      background-color: LightGray;
+    }
+  
+    #stage {
+      background-color: White;
+      border-style: solid;
+      border-width: 3px;
+      border-color: #900000;
+    }
+  
+    #centerContainer {
+      position: absolute;
+      top: 50%;
+      margin-top: -450px;
+      left: 0;
+      width: 100%;
+    }
+  
+    #centerContent {
+      width: 940px;
+      height: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="centerContainer">
+    <div id="centerContent">
+
+      <div class="row" style="width:946px; margin-bottom: 10px;">
+        Test of draw footprints
+      </div>
+
+      <div class="row">
+        <canvas id="stage" width="1000" height="700"></canvas>
+      </div>
+
+    </div>
+  </div>
+
+  <script type="application/dart" src="index.dart"></script>
+  <script src="packages/browser/dart.js"></script>
+
+</body>
+</html>

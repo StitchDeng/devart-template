@@ -23,8 +23,10 @@ The work is completed by joint efforts of artists, program developers and users.
 ## Links to External Libraries
 
 ## Images & Videos
-![cover.jpg](project_images/own-world-pixel.jpg "cover")
+![cover.jpg](project_images/cover.jpg "cover")
 ![Own World](project_images/own-world-pixel.jpg "Own World")
 ![Mondrian](project_images/own-world-Mondrian.jpg "Mondrian")
 ![Mondrian2](project_images/own-world-Mondrian2.jpg "Mondrian2")
+![Bubble](project_images/own-world-Floating-Bubble.jpg "Floating Bubble")
+![leaves](project_images/own-world-Floating-leaves.jpg "Floating leaves")
 
