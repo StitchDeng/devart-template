@@ -29,4 +29,11 @@ The work is completed by joint efforts of artists, program developers and users.
 ![Mondrian2](project_images/own-world-Mondrian2.jpg "Mondrian2")
 ![Bubble](project_images/own-world-Floating-Bubble.jpg "Floating Bubble")
 ![leaves](project_images/own-world-Floating-leaves.jpg "Floating leaves")
+![dot1](../project_images/dot1.png "dot1")
+![dot2](../project_images/dot1.png "dot2")
+![dot3](../project_images/dot1.png "dot3")
+![dot4](../project_images/dot1.png "dot4")
+![dot5](../project_images/dot1.png "dot5")
+![final1](../project_images/final1.jpg "final1")
+![final2](../project_images/final2.jpg "final2")
 
